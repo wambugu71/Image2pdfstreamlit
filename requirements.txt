@@ -1,2 +1,4 @@
-Pillow
 streamlit
+pathlib3x
+pathlib
+Pillow
